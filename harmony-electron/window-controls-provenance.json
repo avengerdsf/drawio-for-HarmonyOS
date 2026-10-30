@@ -1,0 +1,61 @@
+{
+  "sourceKind": "Huawei DevEco Studio bundled OpenHarmony SDK previewer system container-modal window SVG assets",
+  "sdkComponentMetadataPath": "sdk/default/openharmony/previewer/oh-uni-package.json",
+  "sdkComponent": {
+    "version": "26.0.0.105",
+    "apiVersion": "26",
+    "displayName": "Previewer"
+  },
+  "copiedAt": "2026-10-25T14:06:44.365Z",
+  "resources": [
+    {
+      "purpose": "minimize",
+      "resource": "app.media.window_minimize",
+      "target": "web_engine/src/main/resources/base/media/window_minimize.svg",
+      "officialSource": "sdk/default/openharmony/previewer/common/resources/resources/base/media/container_modal_window_minimize.svg",
+      "sha256": "9da77b09799fbeb293a557bd790ccac95c383a55cfaf6c276155c666da9931c3",
+      "bytes": 707,
+      "viewBox": "0 0 24 24",
+      "sourceBytesPreserved": true,
+      "rendererTarget": "web_engine/src/main/resources/resfile/resources/app/window-controls/window_minimize.svg",
+      "rendererSha256": "9da77b09799fbeb293a557bd790ccac95c383a55cfaf6c276155c666da9931c3"
+    },
+    {
+      "purpose": "maximize",
+      "resource": "app.media.window_maximize",
+      "target": "web_engine/src/main/resources/base/media/window_maximize.svg",
+      "officialSource": "sdk/default/openharmony/previewer/common/resources/resources/base/media/container_modal_window_maximize.svg",
+      "sha256": "d7fd579c43569c783dd20c2dbfd9fc9266818337f03c781e09aec1d031b8497c",
+      "bytes": 1591,
+      "viewBox": "0 0 24 24",
+      "sourceBytesPreserved": true,
+      "rendererTarget": "web_engine/src/main/resources/resfile/resources/app/window-controls/window_maximize.svg",
+      "rendererSha256": "d7fd579c43569c783dd20c2dbfd9fc9266818337f03c781e09aec1d031b8497c"
+    },
+    {
+      "purpose": "restore",
+      "resource": "app.media.window_restore",
+      "target": "web_engine/src/main/resources/base/media/window_restore.svg",
+      "officialSource": "sdk/default/openharmony/previewer/common/resources/resources/base/media/container_modal_window_recover.svg",
+      "sha256": "cbda6add7fdc09c78528699b1fb53f9343b1aa4b35606336875d5f982b9ea445",
+      "bytes": 1565,
+      "viewBox": "0 0 24 24",
+      "sourceBytesPreserved": true,
+      "rendererTarget": "web_engine/src/main/resources/resfile/resources/app/window-controls/window_restore.svg",
+      "rendererSha256": "cbda6add7fdc09c78528699b1fb53f9343b1aa4b35606336875d5f982b9ea445"
+    },
+    {
+      "purpose": "close",
+      "resource": "app.media.window_close",
+      "target": "web_engine/src/main/resources/base/media/window_close.svg",
+      "officialSource": "sdk/default/openharmony/previewer/common/resources/resources/base/media/container_modal_window_close.svg",
+      "sha256": "d3a053a0319f53e426e301c74f1cc6b3a227d3c593f6ef75b88b51042c14bcdb",
+      "bytes": 973,
+      "viewBox": "0 0 24 24",
+      "sourceBytesPreserved": true,
+      "rendererTarget": "web_engine/src/main/resources/resfile/resources/app/window-controls/window_close.svg",
+      "rendererSha256": "d3a053a0319f53e426e301c74f1cc6b3a227d3c593f6ef75b88b51042c14bcdb"
+    }
+  ],
+  "changes": "Byte-for-byte copies; filenames map recover to restore. No SVG geometry, paths, metadata or colours were edited."
+}

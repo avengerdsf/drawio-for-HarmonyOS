@@ -50,3 +50,29 @@ src/main/webapp/WEB-INF/lib/protobuf-java-*.jar
 src/main/webapp/WEB-INF/lib/protobuf-java-util-*.jar
 src/main/webapp/WEB-INF/lib/re2j-*.jar
 src/main/webapp/WEB-INF/lib/threetenbp-*.jar
+
+# HarmonyOS local and generated files
+/tmp/
+/dist/
+/harmony/
+/upstream/
+**/oh_modules/
+**/.hvigor/
+**/.idea/
+**/.cxx/
+**/.preview/
+**/.test/
+**/local.properties
+**/signing/
+*.p12
+*.p7b
+*.keystore
+*.hap
+*.har
+*.hsp
+*.log
+*.tap
+
+# Shipped draw.io Desktop dependencies are part of the application payload.
+!/harmony-electron/web_engine/src/main/resources/resfile/resources/app/upstream/node_modules/
+!/harmony-electron/web_engine/src/main/resources/resfile/resources/app/upstream/node_modules/**

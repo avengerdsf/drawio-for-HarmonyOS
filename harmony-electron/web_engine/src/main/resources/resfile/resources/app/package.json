@@ -1,0 +1,6 @@
+{
+  "name": "draw.io",
+  "version": "32.6.1",
+  "type": "module",
+  "main": "bootstrap.mjs"
+}

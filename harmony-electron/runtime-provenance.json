@@ -1,0 +1,28 @@
+{
+  "appVersion": "32.6.1",
+  "versionCode": 32006001,
+  "bundleName": "com.example.diagramdesk",
+  "deviceTypes": [
+    "2in1"
+  ],
+  "compatibleApi": 17,
+  "targetApi": 26,
+  "windowsSource": {
+    "asarSha256": "9b1e6909e1a81442a83c25011dee6fb3dd9b02a09d0d36b11020b38accd1ffd2",
+    "fileCount": 4068,
+    "manifest": "../verification/windows-app-32.6.1-manifest.json",
+    "payload": "web_engine/src/main/resources/resfile/resources/app/upstream"
+  },
+  "runtime": {
+    "repository": "https://gitcode.com/CPF-Electron/Electron",
+    "releaseTag": "v37.2.1",
+    "archiveUrl": "https://gitcode.com/CPF-Electron/Electron/releases/download/v37.2.1/v37.2.1-openharmony-arm64.zip",
+    "archiveSha256": "2a1421f6219ac760092aecb4a82bf5ab49b19918f23edec5a9420d1b41eea9e8",
+    "archiveBytes": 365756936,
+    "apiTargetCommit": "cc29ebbebf505ea8e68290e998212eec6b4b4e3b",
+    "observedElectron": "37.2.0",
+    "observedNode": "22.17.0",
+    "observedChromium": "138.0.7204.45"
+  },
+  "icons": "window-controls-provenance.json"
+}

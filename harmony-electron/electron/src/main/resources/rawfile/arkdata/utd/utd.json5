@@ -1,0 +1,19 @@
+{
+  "UniformDataTypeDeclarations": [
+    {
+      "TypeId": "com.example.diagramdesk.drawio",
+      "BelongingToTypes": [
+        "general.xml"
+      ],
+      "FilenameExtensions": [
+        ".drawio",
+        ".dio"
+      ],
+      "MIMETypes": [
+        "application/vnd.jgraph.mxfile"
+      ],
+      "Description": "draw.io diagram",
+      "ReferenceURL": "https://github.com/jgraph/drawio"
+    }
+  ]
+}
